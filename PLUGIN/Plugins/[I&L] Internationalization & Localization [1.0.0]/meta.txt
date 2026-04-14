@@ -1,0 +1,5 @@
+Name       = Internationalization & Localization
+Version    = 1.0.0
+Essentials = 21.1
+Website    = https://github.com/cigarro-mojao/pokemon-essentials-plugin-i18n-and-l10n
+Credits    = Cigarro Mojao
